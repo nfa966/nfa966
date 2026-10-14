@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:FF6B35&height=200&section=header&text=Naif%20Alrashedi&fontSize=40&fontAlignY=35&desc=Senior%20Accountant%20%E2%86%92%20AI%20Engineer&descAlignY=55&descAlign=50" alt="Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,50:4A90E2,100:FF6B35&height=250&section=header&text=Naif%20Alrashedi&fontSize=50&fontAlignY=32&animation=fadeIn&desc=Senior%20Accountant%20%E2%86%92%20AI%20Engineer&descAlignY=52&descAlign=50&descSize=20" alt="Banner"/>
 </p>
 
 <p align="center">
@@ -66,5 +66,5 @@ Turning financial numbers and data into AI-powered intelligence.
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B35,100:0A66C2&height=100&section=footer" alt="Footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B35,100:0A66C2&height=120&section=footer&animation=fadeIn" alt="Footer"/>
 </p>
